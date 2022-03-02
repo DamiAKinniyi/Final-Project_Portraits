@@ -18,7 +18,7 @@ The configurator takes as input images in jpeg or png format and gives the clien
     - Invert Image  : Yes/No
     - Colour Mode : Monochrome, Coloured, Rainbows
 
-After stylying the image, the client can download the following outputs:
+After styling the image, the client can download the following outputs:
 2D Styling
   - High Res Image
   - 3dm File 
