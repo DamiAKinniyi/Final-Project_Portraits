@@ -26,6 +26,9 @@ After styling the image, the client can download the following outputs:
   - High Res Image
   - 3dm File
   - Excel Spreadsheet
+ 
+ PLUG-INS
+ - Custom C# Script for Image Sampler Path
 
 Questions/Concerns:
 - How to resolve image uploads?
