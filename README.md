@@ -27,7 +27,7 @@ After styling the image, the client can download the following outputs:
   - 3dm File
   - Excel Spreadsheet
  
- PLUG-INS
+ Plugins
  - Custom C# Script for Image Sampler Path
 
 Questions/Concerns:
